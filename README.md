@@ -33,14 +33,6 @@ cURL and ProcessEvent Hook.<br>
 
 F8 - ImGui Menu
 
-## Todo
-
-Stop using patterns and use FindString.<br>
-Clean and improve code.<br>
-Get skins/character parts, emotes all working client side.<br>
-Eventually wraps server side (ServerApplyOverrideWrapToItem).<br>
-
 ## Credits
 
-Console - <a href="https://github.com/SamuGH">Sammy</a> (just dm me on discord if u want it removed yknow)<br>
-Structs/FindObject/UE4 Stuff - <a href="https://github.com/FortniteModding/NeonitePP">Neonite++</a> (again you know how to contact me)<br>
+Milxnor cuz he leaked it
