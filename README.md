@@ -3,14 +3,6 @@ A hybrid server made for Fortnite Battle Royale.
 
 ![image](https://user-images.githubusercontent.com/84999745/134829219-d0c4a680-e17a-4c89-a6c1-d58d2556d703.png)
 
-<br><br>
-This is my (personal) project I've been working on recently.<br>
-You are welcome to push commits.
-<br><br>
-Yes, I know the structs are Neonite++.<br>
-But, it's a personal project and I wanted to test some stuff.
-<br><br>
-
 ## How to use
 
 Fake anticheats and inject!<br>
